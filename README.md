@@ -9,8 +9,8 @@ The first sheet, TEIS Referral Data for NSS pulled 7-1-22.xlsx, shows the last k
 The second sheet, TEIS Referral Data for NSS Compiled Monthly.xlsx, is compiled monthly, which means that at the end of the month, the data manager runs a report of all referrals received the previous month and adds it to this spreadsheet. This sheet will contain multiple rows per Child ID whenever a child has multiple referrals.
 
 Your primary objectives for this project are to explore the referrals data and search for any patterns in referrals and re-referrals. Some questions to consider are the following:
-* What is the rate of re-referral? How many children have multiple referrals (by year or by Point of Entry Office (POE))?
-* A referral is considered a "successful" referral if it results in an Individualized Family Service Plan (IFSP). Are there referral sources that have had higher rates of successful referrals? You can determine whether a referral was successful by looking at whether the Initial IFSP Date column is filled in or whether the Child Phase column is equal to IFSP.
+1. What is the rate of re-referral? How many children have multiple referrals (by year or by Point of Entry Office (POE))?
+2. A referral is considered a "successful" referral if it results in an Individualized Family Service Plan (IFSP). Are there referral sources that have had higher rates of successful referrals? You can determine whether a referral was successful by looking at whether the Initial IFSP Date column is filled in or whether the Child Phase column is equal to IFSP.
 * Some areas of potential concern are POEs having a low proportion of referrals, a high average age of referrals, a low percent of total referrals resulting in an IFSP or a lower percent of eligible referrals resulting in an IFSP. How do POEs compare on these metrics, and which POEs are of concern on the basis of one or more of the listed criteria?
 * Look for patterns in referrals and re-referrals on the basis of the following:
     - Age
@@ -31,4 +31,4 @@ Some additional information that you might need for this project is below.
     - SC: South Central
     - MD: Memphis Delta
 
-* County SES: County Socioeconomic Status is based on the Appalachian Regional Commission's county economic status index. See https://www.tn.gov/transparenttn/state-financial-overview/open-ecd/openecd/tnecd-performance-metrics/openecd-long-term-objectives-quick-stats/distressed-counties.html. 
+* County SES: County Socioeconomic Status is based on the Appalachian Regional Commission's county economic status index. See https://www.tn.gov/transparenttn/state-financial-overview/open-ecd/openecd/tnecd-performance-metrics/openecd-long-term-objectives-quick-stats/distressed-counties.html.
