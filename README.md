@@ -11,12 +11,12 @@ The second sheet, TEIS Referral Data for NSS Compiled Monthly.xlsx, is compiled 
 Your primary objectives for this project are to explore the referrals data and search for any patterns in referrals and re-referrals. Some questions to consider are the following:
 1. What is the rate of re-referral? How many children have multiple referrals (by year or by Point of Entry Office (POE))?
 2. A referral is considered a "successful" referral if it results in an Individualized Family Service Plan (IFSP). Are there referral sources that have had higher rates of successful referrals? You can determine whether a referral was successful by looking at whether the Initial IFSP Date column is filled in or whether the Child Phase column is equal to IFSP.
-* Some areas of potential concern are POEs having a low proportion of referrals, a high average age of referrals, a low percent of total referrals resulting in an IFSP or a lower percent of eligible referrals resulting in an IFSP. How do POEs compare on these metrics, and which POEs are of concern on the basis of one or more of the listed criteria?
-* Look for patterns in referrals and re-referrals on the basis of the following:
+3. Some areas of potential concern are POEs having a low proportion of referrals, a high average age of referrals, a low percent of total referrals resulting in an IFSP or a lower percent of eligible referrals resulting in an IFSP. How do POEs compare on these metrics, and which POEs are of concern on the basis of one or more of the listed criteria?
+4. Look for patterns in referrals and re-referrals on the basis of the following:
     - Age
     - Referral source
     - Socioeconomic status (County SES)
-* TEIS provides services to eligible infants and toddlers from birth to age 3. Are there any POE or service coordinators with high rates of early closure (a child exiting before reaching age 3)? For this question, only consider cases which have reached the IFSP phase.
+5. TEIS provides services to eligible infants and toddlers from birth to age 3. Are there any POE or service coordinators with high rates of early closure (a child exiting before reaching age 3)? For this question, only consider cases which have reached the IFSP phase.
 
 Some additional information that you might need for this project is below.
 
